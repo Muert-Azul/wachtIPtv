@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1,Es- #0
+http://194.88.107.101:6204/live/rahman/rahman/10021.ts
+#EXTINF:-1,Es- 24 HORAS
+http://194.88.107.101:6204/live/rahman/rahman/10020.ts
+#EXTINF:-1,Es- A&E
+http://194.88.107.101:6204/live/rahman/rahman/10019.ts
+#EXTINF:-1,Es- AMC
+http://194.88.107.101:6204/live/rahman/rahman/10018.ts
+#EXTINF:-1,Es- ANTENA 3
+http://194.88.107.101:6204/live/rahman/rahman/10017.ts
+#EXTINF:-1,Es- AXN
+http://194.88.107.101:6204/live/rahman/rahman/10016.ts
+#EXTINF:-1,Es- AXN WHITE
+http://194.88.107.101:6204/live/rahman/rahman/10015.ts
+#EXTINF:-1,Es- BOING
+http://194.88.107.101:6204/live/rahman/rahman/10011.ts
+#EXTINF:-1,Es- CLAN TVE
+http://194.88.107.101:6204/live/rahman/rahman/10005.ts
+#EXTINF:-1,Es- COMEDY CENTRAL
+http://194.88.107.101:6204/live/rahman/rahman/10004.ts
+#EXTINF:-1,Es- COSMO
+http://194.88.107.101:6204/live/rahman/rahman/10003.ts
+#EXTINF:-1,Es- CUATRO
+http://194.88.107.101:6204/live/rahman/rahman/10001.ts
+#EXTINF:-1,Es- DISCOVERY
+http://194.88.107.101:6204/live/rahman/rahman/10000.ts
+#EXTINF:-1,Es- DISNEY CHANNEL HD
+http://194.88.107.101:6204/live/rahman/rahman/9999.ts
+#EXTINF:-1,Es- DISNEY JR
+http://194.88.107.101:6204/live/rahman/rahman/9998.ts
+#EXTINF:-1,Es- DISNEY XD
+http://194.88.107.101:6204/live/rahman/rahman/9997.ts
+#EXTINF:-1,Es- DIVINITY
+http://194.88.107.101:6204/live/rahman/rahman/9996.ts
+#EXTINF:-1,Es- ENERGY
+http://194.88.107.101:6204/live/rahman/rahman/9995.ts
+#EXTINF:-1,Es- FOX
+http://194.88.107.101:6204/live/rahman/rahman/9992.ts
+#EXTINF:-1,Es- FOX LIFE
+http://194.88.107.101:6204/live/rahman/rahman/9991.ts
+#EXTINF:-1,Es- HISTORIA
+http://194.88.107.101:6204/live/rahman/rahman/9989.ts
+#EXTINF:-1,Es- HOLLYWOOD
+http://194.88.107.101:6204/live/rahman/rahman/9988.ts
+#EXTINF:-1,Es- LA 1
+http://194.88.107.101:6204/live/rahman/rahman/9986.ts
+#EXTINF:-1,Es- LA 2
+http://194.88.107.101:6204/live/rahman/rahman/9985.ts
+#EXTINF:-1,Es- LA SXTA
+http://194.88.107.101:6204/live/rahman/rahman/9984.ts
+#EXTINF:-1,Es- SYFY
+http://194.88.107.101:6204/live/rahman/rahman/9958.ts
+#EXTINF:-1,Es- TCM
+http://194.88.107.101:6204/live/rahman/rahman/9957.ts
+#EXTINF:-1,Es- TELECINCO
+http://194.88.107.101:6204/live/rahman/rahman/9956.ts
+#EXTINF:-1,Es- TELEDEPORTE
+http://194.88.107.101:6204/live/rahman/rahman/9955.ts
+#EXTINF:-1,Es- TNT
+http://194.88.107.101:6204/live/rahman/rahman/9954.ts
